@@ -26,21 +26,17 @@ ul{
 nav{
     margin: 0!important;
 }
-img {
-    display: block;
-    width: 100%;
-    border: 0;
-  }
+
 .logos{
     border-right: 1px solid #EAECF0;
 }
 .background-gradient{
     width: 100vw;
 }
-.profile-pic{
+/* .profile-pic{
     
     z-index: 20;
-}
+} */
 .share{
     /* Base/White */
 
@@ -98,4 +94,6 @@ border-radius: 12px;
     /* z-index:2; */
     height:100vh;
     width: auto;
+    position: sticky;
 }
+
